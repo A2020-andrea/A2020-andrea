@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Andréa Soares
 
 
-**A2020-andrea/A2020-andrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**A2020-andrea/A2020-andrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
